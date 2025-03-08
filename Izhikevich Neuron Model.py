@@ -1,15 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  8 00:10:05 2025
-
-@author: s110f
-"""
 
 # -*- coding: utf-8 -*-
 """
 Created on Mon Aug 13 12:40:58 2018
 
-@author: sadegh-pc
+@author: sadegh-110
 """
 
 from pylab import *
